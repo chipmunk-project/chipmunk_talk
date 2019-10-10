@@ -1,0 +1,34 @@
+1.
+Show the output of Chipmunk by using some toy examples
+i.e  program vs Chipmunk_with_holes
+ --> program vs Chipmunk_with_hole_vals
+ --> Show why this works.
+We should find some "easy" benchmarks to show the whole process
+
+2.
+Some of the reviewers think there are too many research questions
+which is more like a grant proposal. Probably we should collect
+them into future direction part.
+
+3.
+Where is the main part of our contribution?
+3.1 Use synthesis method to write fast-programing code?
+or
+3.2 Use the output of previous stage as the input of next stage
+    to imporve successful compilation rate
+
+4.
+Get more figure from Sketch dissertation or create some by our
+own to explain the Sketch better
+
+5.
+Rewrite one sentence of 2.1 "" to make it clear to understand
+
+6.
+Compare the compilation time of domino vs Chipmunk
+
+7.
+Focus on programmable switch or programmable substrates?
+
+8.
+Limitations: looks like we should not end with We have not yet designed a translator
